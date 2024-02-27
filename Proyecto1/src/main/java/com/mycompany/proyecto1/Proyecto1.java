@@ -18,7 +18,9 @@ public class Proyecto1 {
   int mes;
   int anio;
 
-  
+  int comida;
+  int cena;
+  int merienda;
     }
 }
 
